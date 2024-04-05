@@ -6,7 +6,7 @@ React is a JavaScript library for building user interfaces and it is a tool for 
 React allows us to create reusable UI components.
 React is a framework that employs Webpack to automatically compile React, JSX, and ES6 code while handling CSS file prefixes. React is a JavaScript-based UI development library. Although React is a library rather than a language, it is widely used in web development. The library first appeared in May 2013 and is now one of the most commonly used frontend libraries for web development.
 
-> Components : React is built around the concept of components, which are self-contained UI elements that can be reused throughout your application.
+> Components : React is built around the concept of components, which are self-contained UI elements that can be reused throughout your app.
 
 > Virtual DOM : React uses a virtual representation of the DOM, which is more efficient than directly manipulating the actual DOM.
 
