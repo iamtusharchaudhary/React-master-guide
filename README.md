@@ -13,3 +13,12 @@ React is a framework that employs Webpack to automatically compile React, JSX, a
 > State management : React provides a way to manage state with in components, which makes it easier to build complex UIs.
 
 > JSX : React uses a syntax extension called JSX, which allows you to write HTML-like code within your JavaScript files.
+
+<hr/>
+
+# How to Setup React App For Web Development
+### Install Node First https://nodejs.org/en/
+
+### Install React App On Local Machine
+
+
