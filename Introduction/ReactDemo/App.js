@@ -1,3 +1,7 @@
+// Case 1 :-
+
+// This is default code in App.js file
+
 import logo from './logo.svg';
 import './App.css';
 
@@ -23,4 +27,23 @@ function App() {
 }
 
 export default App;
+
+///////////////////////////////////
+
+// Case 2 :-
+
+// This is for Demo file
+
+import logo from './logo.svg';
+import './App.css';
+
+function App() {
+  return (
+     <Demo/>
+  );
+}
+
+export default App;
+
+
 
