@@ -6,3 +6,13 @@ React is a framework that employs Webpack to automatically compile React, JSX, a
 
 React basically allows developers to utilize individual parts of their application on both the client-side and the server-side, which ultimately boosts the speed of the development process. 
 In fact, an expert JavaScript developer can easily learn all the ins and outs of the React framework in a matter of a day or two.
+
+# JSX in React
+
+> JSX stands for JavaScript XML.
+
+> JSX allows us to write HTML in React.
+
+> JSX makes it easier to write and add HTML in React.
+
+### If you want to know about JSX in react https://legacy.reactjs.org/docs/introducing-jsx.html
