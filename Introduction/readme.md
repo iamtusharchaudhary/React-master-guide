@@ -15,11 +15,12 @@ In fact, an expert JavaScript developer can easily learn all the ins and outs of
 
 > JSX makes it easier to write and add HTML in React.
 
-### If you want to know about JSX https://legacy.reactjs.org/docs/introducing-jsx.html
+### If you want to know about JSX  https://legacy.reactjs.org/docs/introducing-jsx.html
+
+<hr/>
 
 # Core In React Js
 
-Core In React js
 > Template in jsx
 
 > state and props
