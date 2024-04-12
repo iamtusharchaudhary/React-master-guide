@@ -17,8 +17,23 @@ React is a framework that employs Webpack to automatically compile React, JSX, a
 <hr/>
 
 # How to Setup React App For Web Development
+
+<hr/>
+
 ### Install Node First https://nodejs.org/en/
 
 ### Install React App On Local Machine
+```
+npm init react-app my-app
+or 
+npx create-react-app my-app
+cd my-app
+npm start
+```
 
+# React Create Using Vite
+```
+npm create vite@latest
 
+npm run dev
+```
