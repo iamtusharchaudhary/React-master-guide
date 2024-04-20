@@ -12,3 +12,11 @@
 > Install the json-server package
 
 > Add code to package
+ ```
+  "serve-json": "json-server --watch db.json"
+ "serve-json": "json-server --watch db.json --port 4000 "
+ ```
+> Run the server
+```
+npm run serve-json
+```
