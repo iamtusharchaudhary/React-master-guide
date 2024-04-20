@@ -20,3 +20,15 @@
 ```
 npm run serve-json
 ```
+
+# JSON Routes
+
+> get request
+
+> post request
+
+> put request
+
+> patch request
+
+> delete request
