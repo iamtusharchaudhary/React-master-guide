@@ -1,6 +1,6 @@
 # Network Call In React ( Axios )
 
- 1. #### Install Axios
+### 1. Install Axios
 ```
 npm install axios
 or
@@ -8,7 +8,7 @@ npm i axios
 ```
 https://jsonplaceholder.typicode.com/
 
-2. #### Create Class Component JustList
+### 2. Create Class Component JustList
  ```
 import axios from 'axios'
 import React, { Component } from 'react'
