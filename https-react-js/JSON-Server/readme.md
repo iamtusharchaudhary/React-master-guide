@@ -33,10 +33,9 @@ npm run serve-json
 
 > delete request
 
-# About JSON server
-
 <hr/>
 
-[JSON SERVER](https://www.npmjs.com/package/json-server)
+# About
 
-<hr/>
+[About JSON Server](https://www.npmjs.com/package/json-server)
+
