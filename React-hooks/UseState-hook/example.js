@@ -1,3 +1,5 @@
+// In this like dislike concept are describe :-
+
 import React, { useState } from 'react'
 
 function ExampleOne() {
