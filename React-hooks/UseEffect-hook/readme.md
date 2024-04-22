@@ -9,3 +9,9 @@ The useEffect hook is a fundamental part of React's functional component model. 
 or
 
 > npm i axios   
+
+<hr/>
+
+https://jsonplaceholder.typicode.com/
+
+<hr/>
