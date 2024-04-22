@@ -32,3 +32,11 @@ npm run serve-json
 > patch request
 
 > delete request
+
+# About JSON server
+
+<hr/>
+
+[JSON SERVER](https://www.npmjs.com/package/json-server)
+
+<hr/>
