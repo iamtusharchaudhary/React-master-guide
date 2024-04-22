@@ -5,5 +5,7 @@ The useEffect hook is a fundamental part of React's functional component model. 
 #### 1. Install axios using command
 
 > npm install axios
+ 
 or
+
 > npm i axios   
