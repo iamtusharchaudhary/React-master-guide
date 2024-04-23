@@ -3,7 +3,7 @@ The useReducer hook is used in React to manage complex state and state transitio
 
 <hr/>
 
-### If You Know [About UseReducer](https://react.dev/reference/react/useReducer)
+### If You Want To Know [About UseReducer](https://react.dev/reference/react/useReducer)
 
 <hr/>
 
