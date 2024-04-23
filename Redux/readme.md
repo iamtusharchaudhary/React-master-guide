@@ -11,6 +11,8 @@ Redux is a JS library for predictable and maintainable global state management. 
 #### Official website of Redux :-
 [React Redux Toolkit](https://redux.js.org/introduction/getting-started)
 
+<hr/>
+
 ```
 // import redux from 'redux';
 const redux = require('redux')
