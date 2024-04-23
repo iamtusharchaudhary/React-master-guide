@@ -9,6 +9,10 @@ npm install @reduxjs/toolkit
 yarn add @reduxjs/toolkit
 ```
 
+> npm install react-redux
+
+#### Step:2-
+
 ```
 # NPM
 npm install redux
@@ -16,3 +20,5 @@ npm install redux
 # Yarn
 yarn add redux
 ```
+
+#### After that you can easily use Readux Toolkit
