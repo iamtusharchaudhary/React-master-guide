@@ -1,0 +1,46 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.head{
+    /* height: 70px; */
+    width: 100%;
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+}
+.head h1{
+    padding: 2% 3%;
+}
+.navbar{
+    padding: 3% 3%;
+}
+.navbar a{
+    margin-right: 20px;
+    text-decoration: none;
+    font-size: 18px;
+    color: black;
+    font-weight: bold;
+}
+.banner{
+    /* border: 2px solid black; */
+    margin-top: 2vh;
+}
+.image{
+    height: 400px;
+    width: 100%;
+}
+@media (prefers-reduced-motion: no-preference) {
+    .image {
+      animation:image-spin infinite 20s linear;
+    }
+  }
+  @keyframes image-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
