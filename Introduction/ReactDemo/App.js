@@ -1,7 +1,7 @@
 // Case 1 :-
 
 // This is default code in App.js file
-
+import React from 'React'
 import logo from './logo.svg';
 import './App.css';
 
@@ -33,7 +33,7 @@ export default App;
 // Case 2 :-
 
 // This is for Demo file
-
+import React from 'React'
 import logo from './logo.svg';
 import './App.css';
 
